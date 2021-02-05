@@ -1,0 +1,10 @@
+Mobile Background - #172438
+Mobile Background dark - #142034
+Mobile Background dark light - #1d314c
+Mobile bar blue - #149bfe
+Mobile bar purple - #b76ffb
+Mobile bar light blue - #32537f
+Mobile bottom blue primary - #34bacc
+Mobile bottom blue secondary - #32537f
+Mobile Text light - #cad4e7
+Mobile Text dark - #50607f
